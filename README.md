@@ -8,11 +8,11 @@ With the help of this library, the log printing function can be called within fu
 follow the logic and the activity of the functions within the application in a more convenient way
 
 <p align="center">
-  <img src="https://github.com/TKamar/LogsManager/blob/master/app/src/main/res/raw/screenshot1.png?raw=true" width="250">
+  <img src="https://github.com/TKamar/LogsManager/blob/master/app/src/main/res/raw/screenshot1.png?raw=true">
 </p>
 
 <p align="center">
-  <img src="https://github.com/TKamar/LogsManager/blob/master/app/src/main/res/raw/screenshot2.png?raw=true" width="250">
+  <img src="https://github.com/TKamar/LogsManager/blob/master/app/src/main/res/raw/screenshot2.png?raw=true">
 </p>
 
 ## How to Use
