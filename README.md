@@ -19,18 +19,18 @@ follow the logic and the activity of the functions within the application in a m
 
 1. Add it in your root build.gradle at the end of repositories:
    ```
-   allprojects {
-   repositories {
-   ...
-   maven { url 'https://jitpack.io' }
-     }
-   }
+	allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
    ```
 2. Add the dependency:
    ```
-   dependencies {
-   implementation 'com.github.TKamar:LogsManager:Tag'
-   }
+	dependencies {
+	        implementation 'com.github.TKamar:LogsManager:v1.0'
+	}
    ```
 3. In your project, create a variable of type LogsManager.
 4. Start using the library in your project by calling the library function --> LogsManager.logEntry || LogsManager.logExit
