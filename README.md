@@ -1,4 +1,4 @@
-# Logs Manager
+# Logs Manager 📄📃
 
 📄📃 A simple Android Library for tracking entry and exit of functions in the project. 📄📃
 
