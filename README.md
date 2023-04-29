@@ -12,7 +12,7 @@ follow the logic and the activity of the functions within the application in a m
 </p>
 
 <p align="center">
-  <img src="https://github.com/TKamar/LogsManager/blob/master/app/src/main/res/raw/screenshot1.png.png?raw=true" width="250">
+  <img src="https://github.com/TKamar/LogsManager/blob/master/app/src/main/res/raw/screenshot2.png?raw=true" width="250">
 </p>
 
 ## How to Use
