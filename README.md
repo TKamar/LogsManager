@@ -1,4 +1,5 @@
 # Logs Manager 📄📃
+[![](https://jitpack.io/v/TKamar/LogsManager.svg)](https://jitpack.io/#TKamar/LogsManager)
 
 📄📃 A simple Android Library for tracking entry and exit of functions in the project. 📄📃
 
